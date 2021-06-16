@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BatuhanSener</string>
+    <string name="merhaba_ben_batuhan_ener_eski_ehir_osmangazi_niversitesi_matematik_bilgisayar_b_l_m_rencisiyim_bu_proje_android_programlama_dersi_i_in_geli_tirilmi_tir">Merhaba ben Batuhan Şener. Eskişehir Osmangazi Üniversitesi Matematik Bilgisayar Bölümü öğrencisiyim. Bu proje Android Programlama dersi için geliştirilmiştir.</string>
+    <string name="ana_sayfa">ANA SAYFA</string>
+</resources>
